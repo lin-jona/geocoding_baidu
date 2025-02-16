@@ -1,0 +1,14 @@
+{
+  "_comment":[
+    "api_key: Baidu Maps API Key",
+    "input_path: Input file path",
+    "column: Column index of the location data(Use a comma for separation, like 'latitude, longitude') in the input file",
+    "output_path: Output file path",
+    "request_delay: Delay between requests to avoid rate limiting"
+  ],
+  "api_key": "",
+  "input_path": "E:\\Project\\FT\\reverse_geocoding_baidu.xls",
+  "column": 1,
+  "output_path": "geocoding_results-20241227.xls",
+  "request_delay": 0.5
+}
